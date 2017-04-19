@@ -6,4 +6,4 @@ taxonomy:
 ---
 
 
-Coming Soon!
+We see you later
