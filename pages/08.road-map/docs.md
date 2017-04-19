@@ -5,5 +5,4 @@ taxonomy:
         - docs
 ---
 
-
 Coming Soon!

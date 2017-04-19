@@ -1,8 +1,8 @@
 ---
 title: Contributing
 taxonomy:
-  category:
-    - docs
+    category:
+        - docs
 ---
 
 Mycroft is licensed under the GNU Lesser General Public License version 

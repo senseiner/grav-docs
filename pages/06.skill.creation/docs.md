@@ -1,5 +1,5 @@
 ---
-title: Creating a skill
+title: 'Creating a skill'
 taxonomy:
     category:
         - docs

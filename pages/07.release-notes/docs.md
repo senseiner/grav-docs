@@ -4,6 +4,7 @@ taxonomy:
     category:
         - docs
 ---
+
 [github-releases]:https://github.com/MycroftAI/mycroft-core/releases
 [View the releases on GitHub here.][github-releases]
 

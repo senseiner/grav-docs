@@ -1,8 +1,8 @@
 ---
-title: Skills and Features
+title: 'Skills and Features'
 taxonomy:
-  category:
-    - docs
+    category:
+        - docs
 ---
 
 ## Skills
