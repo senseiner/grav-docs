@@ -1,9 +1,9 @@
 ---
 title: 'Getting Started'
 taxonomy:
-    category:
-        - docs
+    category: docs
 ---
+
 # Setting up Mycroft
 
 Currently, Mycroft only runs in Linux environments. If you already have a Linux desktop environment, you can go ahead and skip to the appropriate install section.
