@@ -1,8 +1,7 @@
 ---
-title: Mycroft Setup
+title: 'Mycroft Setup'
 taxonomy:
-    category:
-        - docs
+    category: docs
 ---
 
 # Introduction
