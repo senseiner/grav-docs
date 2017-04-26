@@ -1,8 +1,7 @@
 ---
 title: 'What is Mycroft?'
 taxonomy:
-    category:
-        - docs
+    category: docs
 ---
 
 [plugin:youtube](https://www.youtube.com/watch?v=m4L0QfzUeEI)
