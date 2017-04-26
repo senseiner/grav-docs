@@ -1,9 +1,9 @@
 ---
-title: 'Configuration'
+title: Configuration
 taxonomy:
-    category:
-        - docs
+    category: docs
 ---
+
 Mycroft configuration consists of 3 possible config files.
 - `mycroft-core/mycroft/configuration/mycroft.conf`, which lives inside the mycroft codebase/distribution
 - `/etc/mycroft/mycroft.conf`
